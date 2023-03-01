@@ -4,20 +4,26 @@ Contains custom gamepad settings for The Witcher 3 Enhanced Edition Redux
 
 ## Combat Mappings
 
+```
 xbox A / ps Cross: Roll
 xbox B / ps Circle: Dodge
 xbox Y / ps Triangle: Cast Selected Sign
 xbox X / ps Square: Parry/Counterattack
+```
 
+```
 LBumper: Medium Distance Modifier
 LTrigger: Long Distance Modifier
 RBumper: Light Attack
 RTrigger: Heavy Attack
+```
 
+```
 Dpad-Up: Radial Menu
 Dpad-Right: Toggle Sheath Silver Sword
 Dpad-Left: Toggle Sheath Steel Sword
 Dpad-Down: Quick Use Item (torch, bomb etc.)
+```
 
 ## Quick Meditation Fix
 
